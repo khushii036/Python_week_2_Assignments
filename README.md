@@ -10,3 +10,5 @@ Features:-
 + Plot Spending Pie Chart
 + Exit
 # LOCATION:- EXPENSE_TRACKER/
+# SCREENSHOTS:-
+all the screenshots are available in the expense tracker screenshot folder. 
