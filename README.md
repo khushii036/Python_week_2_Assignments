@@ -10,8 +10,7 @@ This repository contains two Python projects completed during the week 2 assignm
 + Plot Spending Pie Chart
 + Exit
 # LOCATION:- EXPENSE_TRACKER/
-# SCREENSHOTS:-
-all the screenshots are available in the expense tracker screenshot folder. 
+
 # TASK:2- FILE ORGANISER
 A Python utility that automatically organizes files into categorized folders based on their file extensions.
 ## Features:
@@ -40,5 +39,7 @@ Uses only:
 - argparse
 ## Installation
 Clone or download the project.
+# SCREENSHOTS:-
+all the screenshots are available in the screenshot folder.
 '''bash
 python file_organizer.py
