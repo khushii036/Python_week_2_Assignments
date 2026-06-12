@@ -39,7 +39,8 @@ Uses only:
 - argparse
 ## Installation
 Clone or download the project.
-# SCREENSHOTS:-
-all the screenshots are available in the screenshot folder.
 '''bash
 python file_organizer.py
+# SCREENSHOTS:-
+all the screenshots are available in the screenshot folder.
+
