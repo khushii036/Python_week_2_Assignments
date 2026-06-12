@@ -1,0 +1,7 @@
+2026-06-12 23:15:08,465 - INFO - Moved 'movie.mp4' -> 'test_folder\Videos\movie.mp4'
+2026-06-12 23:15:08,469 - INFO - Moved 'notes.txt' -> 'test_folder\Documents\notes.txt'
+2026-06-12 23:15:08,473 - INFO - Moved 'photo.jpg' -> 'test_folder\Images\photo.jpg'
+2026-06-12 23:15:08,477 - INFO - Moved 'random.xyz' -> 'test_folder\Others\random.xyz'
+2026-06-12 23:15:08,480 - INFO - Moved 'report.pdf' -> 'test_folder\Documents\report.pdf'
+2026-06-12 23:15:08,485 - INFO - Moved 'script.py' -> 'test_folder\Code\script.py'
+2026-06-12 23:15:08,489 - INFO - Moved 'song.mp3' -> 'test_folder\Music\song.mp3'
